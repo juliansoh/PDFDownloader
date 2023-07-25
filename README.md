@@ -3,7 +3,7 @@ A Python script to download pdfs from a website
 
 When you need to download all of the files from a website and do not want to click on each link and select download, this Python script will automate it for you.
 
-## Credit
+## Credits
 Michael Cruz
 
 ## Planned improvements
