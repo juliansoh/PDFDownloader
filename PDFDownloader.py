@@ -29,7 +29,7 @@ for pdf in pdfElems:
     pdfCount += 1
     pdfSize += len(res.content)
     # Save the pdf to ./Minnesota
-    pdfFile = open(os.path.join('Minnesota', os.path.basename(pdfUrl)), 'wb')
+    pdfFile = open(os.path.join('Downloaded', os.path.basename(pdfUrl)), 'wb')
     for chunk in res.iter_content(100000):
         pdfFile.write(chunk)
     pdfFile.close()
