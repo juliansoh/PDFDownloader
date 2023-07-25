@@ -5,7 +5,7 @@ When you need to download all of the files from a website and do not want to cli
 
 ## Instructions
 1. (Line 24) Replace url with the actual website url
-2. (Line 32) Replace "Downloads" with the folder to whch the files will be downloaded to (optional)
+2. (Line 32) Replace "Downloads" with the folder name to which the files will be downloaded to (optional)
 
 ## Credits
 Michael Cruz
